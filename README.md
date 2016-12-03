@@ -2,7 +2,7 @@
 Simple Flask app
 
 # Run
-python main.py
+´´´´ python main.py ´´´´ 
 
 # Test
-python -m pytest
+´´´´ python -m pytest ´´´´ 
